@@ -1,0 +1,5 @@
+# Compiled python
+*.pyc
+
+# Dependencies
+venv/
